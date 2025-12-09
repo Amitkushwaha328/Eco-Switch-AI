@@ -1,0 +1,125 @@
+Country,Grid Intensity (kg CO₂/kWh),Currency Code,Currency Symbol
+Afghanistan,0.145,AFN,؋
+Albania,0.015,ALL,L
+Algeria,0.54,DZD,د.ج
+Argentina,0.32,ARS,$
+Armenia,0.155,AMD,֏
+Australia,0.52,AUD,$
+Austria,0.055,EUR,€
+Azerbaijan,0.46,AZN,₼
+Bahrain,0.65,BHD,.د.ب
+Bangladesh,0.565,BDT,৳
+Belarus,0.4,BYN,Br
+Belgium,0.152,EUR,€
+Benin,0.62,XOF,Fr
+Bolivia,0.36,BOB,Bs.
+Bosnia and Herzegovina,0.76,BAM,KM
+Botswana,0.98,BWP,P
+Brazil,0.095,BRL,R$
+Bulgaria,0.41,BGN,лв
+Cambodia,0.45,KHR,៛
+Cameroon,0.22,XAF,Fr
+Canada,0.13,CAD,$
+Chile,0.28,CLP,$
+China,0.56,CNY,¥
+Colombia,0.16,COP,$
+Costa Rica,0.025,CRC,₡
+Croatia,0.19,EUR,€
+Cyprus,0.59,EUR,€
+Czech Republic,0.43,CZK,Kč
+Denmark,0.075,DKK,kr
+Dominican Republic,0.52,DOP,RD$
+Ecuador,0.18,USD,$
+Egypt,0.48,EGP,£
+El Salvador,0.19,USD,$
+Estonia,0.35,EUR,€
+Ethiopia,0.01,ETB,Br
+Finland,0.035,EUR,€
+France,0.043,EUR,€
+Georgia,0.13,GEL,₾
+Germany,0.38,EUR,€
+Ghana,0.31,GHS,₵
+Greece,0.26,EUR,€
+Guatemala,0.29,GTQ,Q
+Honduras,0.31,HNL,L
+Hong Kong,0.42,HKD,$
+Hungary,0.23,HUF,Ft
+Iceland,0,ISK,kr
+India,0.708,INR,₹
+Indonesia,0.74,IDR,Rp
+Iran,0.51,IRR,﷼
+Iraq,0.62,IQD,ع.د
+Ireland,0.29,EUR,€
+Israel,0.42,ILS,₪
+Italy,0.255,EUR,€
+Jamaica,0.61,JMD,J$
+Japan,0.493,JPY,¥
+Jordan,0.47,JOD,د.ا
+Kazakhstan,0.78,KZT,₸
+Kenya,0.08,KES,Sh
+Kuwait,0.68,KWD,د.ك
+Kyrgyzstan,0.11,KGS,с
+Laos,0.14,LAK,₭
+Latvia,0.18,EUR,€
+Lebanon,0.69,LBP,ل.ل
+Libya,0.65,LYD,ل.د
+Lithuania,0.078,EUR,€
+Luxembourg,0.041,EUR,€
+Malaysia,0.56,MYR,RM
+Malta,0.35,EUR,€
+Mexico,0.41,MXN,$
+Moldova,0.52,MDL,L
+Mongolia,0.81,MNT,₮
+Montenegro,0.46,EUR,€
+Morocco,0.61,MAD,د.م.
+Mozambique,0.02,MZN,MT
+Myanmar,0.31,MMK,K
+Namibia,0.15,NAD,$
+Nepal,0.005,NPR,₨
+Netherlands,0.28,EUR,€
+New Zealand,0.09,NZD,$
+Nicaragua,0.39,NIO,C$
+Nigeria,0.38,NGN,₦
+North Macedonia,0.62,MKD,ден
+Norway,0.015,NOK,kr
+Oman,0.51,OMR,﷼
+Pakistan,0.32,PKR,₨
+Panama,0.18,PAB,B/.
+Paraguay,0,PYG,₲
+Peru,0.21,PEN,S/.
+Philippines,0.55,PHP,₱
+Poland,0.73,PLN,zł
+Portugal,0.115,EUR,€
+Qatar,0.45,QAR,﷼
+Romania,0.23,RON,lei
+Russia,0.395,RUB,₽
+Saudi Arabia,0.59,SAR,﷼
+Senegal,0.58,XOF,Fr
+Serbia,0.75,RSD,дин.
+Singapore,0.391,SGD,$
+Slovakia,0.083,EUR,€
+Slovenia,0.21,EUR,€
+South Africa,0.85,ZAR,R
+South Korea,0.44,KRW,₩
+Spain,0.14,EUR,€
+Sri Lanka,0.34,LKR,Rs
+Sudan,0.42,SDG,£
+Sweden,0.008,SEK,kr
+Switzerland,0.03,CHF,CHF
+Syria,0.58,SYP,£
+Taiwan,0.53,TWD,NT$
+Tajikistan,0.03,TJS,ЅМ
+Tanzania,0.29,TZS,Sh
+Thailand,0.45,THB,฿
+Tunisia,0.52,TND,د.ت
+Turkey,0.41,TRY,₺
+Ukraine,0.29,UAH,₴
+United Arab Emirates,0.41,AED,د.إ
+United Kingdom,0.207,GBP,£
+United States,0.384,USD,$
+Uruguay,0.03,UYU,$U
+Uzbekistan,0.51,UZS,лв
+Venezuela,0.22,VES,Bs.S
+Vietnam,0.42,VND,₫
+Zambia,0.05,ZMW,K
+Zimbabwe,0.72,ZWL,$
